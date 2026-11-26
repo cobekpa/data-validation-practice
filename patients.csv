@@ -1,4 +1,4 @@
-patient_id,name ,age,visit_date
+patient_id,name,age,visit_date
 001,John,34,2026-11-20
 002,Mary,,2026-11-21
 003,Paul,28,20-11-2026
